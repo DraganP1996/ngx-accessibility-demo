@@ -19,7 +19,9 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    //added for firebase package
+    "skipLibCheck" : true
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
